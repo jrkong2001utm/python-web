@@ -19,6 +19,10 @@
     <th>Rasmin Kaur Sandhu</th>
     <th>A19ET0216</th>
   </tr>
+     <tr>
+    <th>Kong Jia Rou</th>
+    <th>A20EC0198</th>
+  </tr>
     <tr>
     <th></th>
     <th></th>
